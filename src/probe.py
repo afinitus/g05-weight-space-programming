@@ -1,7 +1,6 @@
 import os
 import sys,json,argparse,numpy as np
 from pathlib import Path
-sys.path.insert(0)
 from policy_rpc import RemotePolicy,unpack
 r=Path(os.environ.get('G05_EXPERIMENT_ROOT', Path(__file__).resolve().parents[1])).resolve();ap=argparse.ArgumentParser();ap.add_argument('spec');ap.add_argument('--port',type=int,default=18308);a=ap.parse_args();spec=json.loads(Path(a.spec).read_text());rpc=RemotePolicy('http://127.0.0.1:'+str(a.port));rows=[]
 for seed,step in spec['observations']:

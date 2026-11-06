@@ -1,7 +1,6 @@
 import os
 import sys,json,numpy as np
 from pathlib import Path
-sys.path.insert(0)
 from policy_rpc import RemotePolicy,unpack
 r=Path(os.environ.get('G05_EXPERIMENT_ROOT', Path(__file__).resolve().parents[1])).resolve();rpc=RemotePolicy('http://127.0.0.1:18400');name='model.action_expert.output_proj.weight';matrix=rpc.call('/inspect',{'names':[name]})[name];specs=[('right_base_feature200_p0p08',200,.08),('right_base_feature168_p0p20',168,.20)];patches=[]
 for cid,col,delta in specs:

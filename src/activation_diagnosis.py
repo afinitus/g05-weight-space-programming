@@ -1,7 +1,6 @@
 import os
 import sys,json,numpy as np
 from pathlib import Path
-sys.path.insert(0)
 from policy_rpc import RemotePolicy,unpack
 r=Path(os.environ.get('G05_EXPERIMENT_ROOT', Path(__file__).resolve().parents[1])).resolve();rpc=RemotePolicy('http://127.0.0.1:18400');rpc.wait_ready();rows=[];early=[];late=[]
 for seed,last in [(200000,280),(200002,240),(200003,280),(200009,240),(200010,240),(200013,240)]:
