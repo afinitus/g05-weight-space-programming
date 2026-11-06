@@ -1,0 +1,8 @@
+{
+  "id": "control_right_base_m0p03",
+  "action_index": 7,
+  "delta": -0.03,
+  "learned_scalars_changed": 0,
+  "label": "Inference-time joint action calibration control; not a learned-weight edit",
+  "rationale": "Match approximate right base joint effect of +0.32 output bias at cached failure approach observation"
+}

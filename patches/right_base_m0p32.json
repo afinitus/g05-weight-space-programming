@@ -1,0 +1,14 @@
+{
+  "id": "right_base_m0p32",
+  "base_checkpoint_sha256": "300d24c691f8d76846a218b9bd670312cf577b701ea5863f221af1b8d1c0d637",
+  "edits": [
+    {
+      "name": "model.action_expert.output_proj.bias",
+      "index": 10,
+      "delta": -0.32,
+      "original_value": 0.0011749267578125
+    }
+  ],
+  "changed_scalars": 1,
+  "hypothesis": "Three development misses release the mug handle approximately3-4cm short in world x. Positive right-base flow-output bias causally shifts predicted approach toward +x; test small scales and negative control. Forward effects are coupled and hypothesis is approximate."
+}

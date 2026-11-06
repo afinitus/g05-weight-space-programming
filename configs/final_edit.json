@@ -1,0 +1,21 @@
+{
+  "id": "right_base_feature168_p0p20",
+  "frozen_utc": "2026-11-06T19:08:13.477577+00:00",
+  "patch_path": "patches/right_base_feature168_p0p20.json",
+  "patch_sha256": "d2f4df4c42b09cebdc01b271d52ef361df46e55dd11aee375a9316c4a99739dc",
+  "selection": "6/6 development success, exactly replicated, no rack physics flags; original1/6",
+  "heldout_outcomes_used": false,
+  "changed_scalars": 1,
+  "unique_model_parameters": 2859995988,
+  "changed_percentage": 3.4965084013957015e-08,
+  "actual_delta_L1": 0.19999998807907104,
+  "actual_delta_L2": 0.19999998807907104,
+  "values": [
+    {
+      "name": "model.action_expert.output_proj.weight",
+      "index": 10408,
+      "old": 0.06640625,
+      "new": 0.26640623807907104
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "seed": 200000,
+    "success": true,
+    "initial_images_equal": true,
+    "initial_state_equal": true,
+    "repeat_arrays": {
+      "trajectory.npz": true,
+      "physics.npz": true
+    }
+  },
+  {
+    "seed": 200002,
+    "success": true,
+    "initial_images_equal": true,
+    "initial_state_equal": true,
+    "repeat_arrays": {
+      "trajectory.npz": true,
+      "physics.npz": true
+    }
+  },
+  {
+    "seed": 200003,
+    "success": true,
+    "initial_images_equal": true,
+    "initial_state_equal": true,
+    "repeat_arrays": {
+      "trajectory.npz": true,
+      "physics.npz": true
+    }
+  },
+  {
+    "seed": 200009,
+    "success": true,
+    "initial_images_equal": true,
+    "initial_state_equal": true,
+    "repeat_arrays": {
+      "trajectory.npz": true,
+      "physics.npz": true
+    }
+  },
+  {
+    "seed": 200010,
+    "success": true,
+    "initial_images_equal": true,
+    "initial_state_equal": true,
+    "repeat_arrays": {
+      "trajectory.npz": true,
+      "physics.npz": true
+    }
+  },
+  {
+    "seed": 200013,
+    "success": true,
+    "initial_images_equal": true,
+    "initial_state_equal": true,
+    "repeat_arrays": {
+      "trajectory.npz": true,
+      "physics.npz": true
+    }
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "id": "control_right_base_m0p0145",
+  "action_index": 7,
+  "delta": -0.0145,
+  "learned_scalars_changed": 0,
+  "label": "Constant decoded-action calibration control",
+  "rationale": "Dose chosen from winner mean absolute late-approach causal right-base change on cached development observations; global constant, not phase gated; never uses ground truth."
+}

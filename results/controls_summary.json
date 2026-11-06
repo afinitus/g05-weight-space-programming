@@ -1,0 +1,16 @@
+[
+  {
+    "id": "control_right_base_m0p03",
+    "n": 6,
+    "successes": 0,
+    "delta": -0.03,
+    "initial_images_equal": true
+  },
+  {
+    "id": "control_right_base_m0p0145",
+    "n": 6,
+    "successes": 2,
+    "delta": -0.0145,
+    "initial_images_equal": true
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "seed": 200000,
+    "success": false,
+    "native": false,
+    "release_action": 307,
+    "release_handle_error": [
+      -0.03563169787993209,
+      -0.027036424712466617,
+      0.09008320383915314
+    ],
+    "peak_speed": 0.9148169922123974,
+    "peak_speed_time": 102.63600487494841,
+    "peak_speed_action": 313,
+    "peak_speed_position": [
+      0.22184184193611145,
+      0.16423262655735016,
+      0.7801120281219482
+    ],
+    "peak_velocity_xyz": [
+      0.14523789286613464,
+      0.05046650767326355,
+      -0.9018033742904663
+    ],
+    "peak_contacts": {
+      "rack": true,
+      "robot": true,
+      "table": true,
+      "ground": false
+    },
+    "penetration": 0.0005448721349239349,
+    "final_mug_xyz": [
+      -0.032637014985084534,
+      0.12167966365814209,
+      0.7714298963546753
+    ]
+  },
+  {
+    "seed": 200002,
+    "success": true,
+    "native": true,
+    "release_action": 269,
+    "release_handle_error": [
+      -0.025055473324594582,
+      -0.012394579550873086,
+      0.08063853601138193
+    ],
+    "peak_speed": 0.505871930346388,
+    "peak_speed_time": 86.77600412163883,
+    "peak_speed_action": 274,
+    "peak_speed_position": [
+      0.10419844090938568,
+      0.17137227952480316,
+      0.8347527980804443
+    ],
+    "peak_velocity_xyz": [
+      0.34424103796482086,
+      0.09858980774879456,
+      -0.3573298454284668
+    ],
+    "peak_contacts": {
+      "rack": true,
+      "robot": true,
+      "table": false,
+      "ground": false
+    },
+    "penetration": 0.0005476707592606544,
+    "final_mug_xyz": [
+      0.09514110535383224,
+      0.17411169409751892,
+      0.840992271900177
+    ]
+  },
+  {
+    "seed": 200003,
+    "success": false,
+    "native": false,
+    "release_action": 308,
+    "release_handle_error": [
+      -0.03766386982657799,
+      0.02553956297117574,
+      0.07000840349368587
+    ],
+    "peak_speed": 3.724170671838611,
+    "peak_speed_time": 101.82000483619049,
+    "peak_speed_action": 320,
+    "peak_speed_position": [
+      -0.8277580738067627,
+      0.07447116076946259,
+      0.06820748001337051
+    ],
+    "peak_velocity_xyz": [
+      -0.6673485040664673,
+      -0.11834129691123962,
+      -3.661978989839554
+    ],
+    "peak_contacts": {
+      "rack": false,
+      "robot": false,
+      "table": false,
+      "ground": true
+    },
+    "penetration": 0.0045038629323244095,
+    "final_mug_xyz": [
+      -3.576199531555176,
+      0.33636122941970825,
+      0.04222693294286728
+    ]
+  },
+  {
+    "seed": 200009,
+    "success": false,
+    "native": false,
+    "release_action": 254,
+    "release_handle_error": [
+      -0.033521177655295886,
+      -0.02654749248367158,
+      0.08865126977604698
+    ],
+    "peak_speed": 1.0863124109786628,
+    "peak_speed_time": 83.74000397743657,
+    "peak_speed_action": 259,
+    "peak_speed_position": [
+      0.058018919080495834,
+      0.08686339855194092,
+      0.7708916068077087
+    ],
+    "peak_velocity_xyz": [
+      -0.11786539107561111,
+      -0.08404627442359924,
+      -1.076623797416687
+    ],
+    "peak_contacts": {
+      "rack": false,
+      "robot": true,
+      "table": true,
+      "ground": false
+    },
+    "penetration": 0.0034388676285743713,
+    "final_mug_xyz": [
+      0.1595858633518219,
+      0.36202558875083923,
+      0.7569493055343628
+    ]
+  },
+  {
+    "seed": 200010,
+    "success": false,
+    "native": false,
+    "release_action": 277,
+    "release_handle_error": [
+      -0.034775302920037054,
+      0.01800448080441472,
+      0.05102893080242232
+    ],
+    "peak_speed": 0.7151960986899203,
+    "peak_speed_time": 88.0840041837655,
+    "peak_speed_action": 281,
+    "peak_speed_position": [
+      0.2153756469488144,
+      0.15289704501628876,
+      0.7742258310317993
+    ],
+    "peak_velocity_xyz": [
+      0.11884421110153198,
+      -0.04192814230918884,
+      -0.7040053606033325
+    ],
+    "peak_contacts": {
+      "rack": true,
+      "robot": true,
+      "table": true,
+      "ground": false
+    },
+    "penetration": 0.003315388225018978,
+    "final_mug_xyz": [
+      0.1548185497522354,
+      0.2834550440311432,
+      0.8208932280540466
+    ]
+  },
+  {
+    "seed": 200013,
+    "success": false,
+    "native": false,
+    "release_action": 269,
+    "release_handle_error": [
+      -0.040450609560334916,
+      -0.036151169465063776,
+      0.08060929872477685
+    ],
+    "peak_speed": 0.7021873855855719,
+    "peak_speed_time": 86.32000409998,
+    "peak_speed_action": 274,
+    "peak_speed_position": [
+      0.12575861811637878,
+      0.1829184591770172,
+      0.7989457249641418
+    ],
+    "peak_velocity_xyz": [
+      -0.05308911204338074,
+      0.2718828618526459,
+      -0.6452351808547974
+    ],
+    "peak_contacts": {
+      "rack": false,
+      "robot": true,
+      "table": true,
+      "ground": false
+    },
+    "penetration": 0.0017991093918681145,
+    "final_mug_xyz": [
+      0.006950439885258675,
+      0.31006041169166565,
+      0.7744779586791992
+    ]
+  }
+]

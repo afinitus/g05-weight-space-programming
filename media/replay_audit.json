@@ -1,0 +1,35 @@
+{
+  "seed": 200017,
+  "selection": "Selected held-out gain; all10pairs available separately",
+  "clip_simtime_start": 55,
+  "clip_simtime_end": 125,
+  "playback_speed": 1,
+  "edited_episode_end_simtime": 92.09200437413529,
+  "edited_final_frame_held": true,
+  "original_replay": {
+    "source": "results/baseline/test/200017",
+    "video": "videos/baseline_200017_presentation.mp4",
+    "verified": true,
+    "max_state_error": 0.0,
+    "max_physics_sample_error": 0.0,
+    "frames": 1050,
+    "clip_start_simtime": 55,
+    "clip_end_simtime": 125,
+    "source_success": false,
+    "policy_episode": false,
+    "playback": "15frames per simulated second; actual recorded policy actions replayed; no new policy inference"
+  },
+  "edited_replay": {
+    "source": "results/right_base_feature168_p0p20/test/200017",
+    "video": "videos/right_base_feature168_p0p20_200017_presentation.mp4",
+    "verified": true,
+    "max_state_error": 0.0,
+    "max_physics_sample_error": 0.0,
+    "frames": 557,
+    "clip_start_simtime": 55,
+    "clip_end_simtime": 92.09200437413529,
+    "source_success": true,
+    "policy_episode": false,
+    "playback": "15frames per simulated second; actual recorded policy actions replayed; no new policy inference"
+  }
+}

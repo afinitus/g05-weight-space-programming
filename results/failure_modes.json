@@ -1,0 +1,374 @@
+[
+  {
+    "candidate": "baseline",
+    "seed": 200014,
+    "success": false,
+    "max_mug_rise_m": 0.3203319311141968,
+    "first_right_release": 269,
+    "release_handle_error_xyz_m": [
+      -0.030549181844012632,
+      -0.02387311186120454,
+      0.05647705264676195
+    ],
+    "final_mug_xyz": [
+      -0.1484067738056183,
+      -0.028637081384658813,
+      0.7743932008743286
+    ],
+    "observed_stage": "lift achieved but supported hang not achieved",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200016,
+    "success": false,
+    "max_mug_rise_m": 0.0029306411743164062,
+    "first_right_release": null,
+    "release_handle_error_xyz_m": null,
+    "final_mug_xyz": [
+      -0.20982985198497772,
+      0.05837900936603546,
+      0.7400005459785461
+    ],
+    "observed_stage": "no5cm lift achieved",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200017,
+    "success": false,
+    "max_mug_rise_m": 0.2847544550895691,
+    "first_right_release": 276,
+    "release_handle_error_xyz_m": [
+      -0.03401375998743958,
+      -0.03537223637647087,
+      0.06789265237402098
+    ],
+    "final_mug_xyz": [
+      0.04268214851617813,
+      -0.0006591826677322388,
+      0.7692438960075378
+    ],
+    "observed_stage": "lift achieved but supported hang not achieved",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200021,
+    "success": false,
+    "max_mug_rise_m": 0.3162739872932434,
+    "first_right_release": 292,
+    "release_handle_error_xyz_m": [
+      -0.06290012339851339,
+      -0.030899496201372112,
+      -0.018395151671605436
+    ],
+    "final_mug_xyz": [
+      0.09296280145645142,
+      0.3554600775241852,
+      0.7692272067070007
+    ],
+    "observed_stage": "lift achieved but supported hang not achieved",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200022,
+    "success": false,
+    "max_mug_rise_m": 0.2909136414527893,
+    "first_right_release": 283,
+    "release_handle_error_xyz_m": [
+      -0.00994300522419167,
+      0.0008183377297734662,
+      0.014815472073958391
+    ],
+    "final_mug_xyz": [
+      0.13335326313972473,
+      0.1689409762620926,
+      0.7438267469406128
+    ],
+    "observed_stage": "lift achieved but supported hang not achieved",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200023,
+    "success": false,
+    "max_mug_rise_m": 0.28808438777923584,
+    "first_right_release": 261,
+    "release_handle_error_xyz_m": [
+      -0.028426017564120658,
+      -0.02637431608351659,
+      0.09393444108026827
+    ],
+    "final_mug_xyz": [
+      -0.2949821352958679,
+      0.2692614197731018,
+      0.7714333534240723
+    ],
+    "observed_stage": "lift achieved but supported hang not achieved",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200025,
+    "success": false,
+    "max_mug_rise_m": 0.3126987814903259,
+    "first_right_release": 284,
+    "release_handle_error_xyz_m": [
+      -0.039669774556472664,
+      -0.029422371276030812,
+      0.0702965381542342
+    ],
+    "final_mug_xyz": [
+      0.20800919830799103,
+      0.2705397307872772,
+      0.7764137387275696
+    ],
+    "observed_stage": "lift achieved but supported hang not achieved",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200026,
+    "success": false,
+    "max_mug_rise_m": 0.30166304111480713,
+    "first_right_release": 282,
+    "release_handle_error_xyz_m": [
+      -0.047609300404720056,
+      -0.01662622476700204,
+      0.06625928667325764
+    ],
+    "final_mug_xyz": [
+      -0.042790353298187256,
+      -0.05092422664165497,
+      0.9211273193359375
+    ],
+    "observed_stage": "lift achieved but supported hang not achieved",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200027,
+    "success": false,
+    "max_mug_rise_m": 0.3275703191757202,
+    "first_right_release": 268,
+    "release_handle_error_xyz_m": [
+      -0.03470043613350905,
+      0.017736739063846985,
+      0.04926060323795545
+    ],
+    "final_mug_xyz": [
+      -0.20468643307685852,
+      0.019597578793764114,
+      0.7761673927307129
+    ],
+    "observed_stage": "lift achieved but supported hang not achieved",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200037,
+    "success": true,
+    "max_mug_rise_m": 0.3051794171333313,
+    "first_right_release": 293,
+    "release_handle_error_xyz_m": [
+      -0.013468767765911382,
+      0.005167939867983376,
+      0.06767479967517653
+    ],
+    "final_mug_xyz": [
+      0.13743078708648682,
+      0.14354261755943298,
+      0.8296036124229431
+    ],
+    "observed_stage": "supported hang",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200014,
+    "success": false,
+    "max_mug_rise_m": 0.31941771507263184,
+    "first_right_release": 269,
+    "release_handle_error_xyz_m": [
+      -0.03231624699415711,
+      -0.021729784308151465,
+      0.06729363493408147
+    ],
+    "final_mug_xyz": [
+      -0.143742635846138,
+      -0.07017578184604645,
+      0.7744263410568237
+    ],
+    "observed_stage": "lift achieved but supported hang not achieved",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200016,
+    "success": false,
+    "max_mug_rise_m": 0.0026721954345703125,
+    "first_right_release": null,
+    "release_handle_error_xyz_m": null,
+    "final_mug_xyz": [
+      -0.20413850247859955,
+      0.055085450410842896,
+      0.739982545375824
+    ],
+    "observed_stage": "no5cm lift achieved",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200017,
+    "success": true,
+    "max_mug_rise_m": 0.27745360136032104,
+    "first_right_release": 276,
+    "release_handle_error_xyz_m": [
+      0.004238831925126835,
+      -0.0024653253641491873,
+      0.05215304251931463
+    ],
+    "final_mug_xyz": [
+      0.1690460741519928,
+      0.12994959950447083,
+      0.8360528349876404
+    ],
+    "observed_stage": "supported hang",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200021,
+    "success": false,
+    "max_mug_rise_m": 0.3203907608985901,
+    "first_right_release": 286,
+    "release_handle_error_xyz_m": [
+      -0.03872971687477905,
+      -0.018190641876061148,
+      -0.019383706396422062
+    ],
+    "final_mug_xyz": [
+      0.19256769120693207,
+      0.17447175085544586,
+      0.7491540908813477
+    ],
+    "observed_stage": "lift achieved but supported hang not achieved",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200022,
+    "success": true,
+    "max_mug_rise_m": 0.2818388342857361,
+    "first_right_release": 283,
+    "release_handle_error_xyz_m": [
+      0.010405105791127467,
+      -0.008615293565351345,
+      0.05645436986629149
+    ],
+    "final_mug_xyz": [
+      0.1758119910955429,
+      0.15179720520973206,
+      0.8316709995269775
+    ],
+    "observed_stage": "supported hang",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200023,
+    "success": true,
+    "max_mug_rise_m": 0.28574395179748535,
+    "first_right_release": 262,
+    "release_handle_error_xyz_m": [
+      -0.0019100475816140744,
+      -0.008701990974661844,
+      0.07391107433679467
+    ],
+    "final_mug_xyz": [
+      0.058992207050323486,
+      0.15684543550014496,
+      0.8311565518379211
+    ],
+    "observed_stage": "supported hang",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200025,
+    "success": true,
+    "max_mug_rise_m": 0.3198865056037903,
+    "first_right_release": 269,
+    "release_handle_error_xyz_m": [
+      -0.017565469267037753,
+      0.0046752954396817314,
+      0.07449687655734083
+    ],
+    "final_mug_xyz": [
+      0.1410621553659439,
+      0.15142589807510376,
+      0.8295066356658936
+    ],
+    "observed_stage": "supported hang",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200026,
+    "success": true,
+    "max_mug_rise_m": 0.304185152053833,
+    "first_right_release": 274,
+    "release_handle_error_xyz_m": [
+      -0.005103114346100057,
+      -0.005683220993067423,
+      0.0709527160985366
+    ],
+    "final_mug_xyz": [
+      0.1297968178987503,
+      0.1525951623916626,
+      0.8292546272277832
+    ],
+    "observed_stage": "supported hang",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200027,
+    "success": false,
+    "max_mug_rise_m": 0.31697261333465576,
+    "first_right_release": 260,
+    "release_handle_error_xyz_m": [
+      -0.05475473349933952,
+      -0.149028240129486,
+      0.011863832951063524
+    ],
+    "final_mug_xyz": [
+      0.536853015422821,
+      -1.5730228424072266,
+      0.0347704142332077
+    ],
+    "observed_stage": "lift achieved but supported hang not achieved",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200037,
+    "success": true,
+    "max_mug_rise_m": 0.30269700288772583,
+    "first_right_release": 293,
+    "release_handle_error_xyz_m": [
+      -0.003916022654171403,
+      -0.01149993245746092,
+      0.07263360150017106
+    ],
+    "final_mug_xyz": [
+      0.1351289600133896,
+      0.13990069925785065,
+      0.8300319314002991
+    ],
+    "observed_stage": "supported hang",
+    "mechanism": "Stage classification from measured poses; not a complete causal explanation"
+  }
+]

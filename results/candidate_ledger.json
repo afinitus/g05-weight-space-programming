@@ -1,0 +1,273 @@
+[
+  {
+    "id": "right_base_feature168_p0p20",
+    "completed": 6,
+    "successes": 6,
+    "remaining": 0,
+    "maximum_possible_successes": 6,
+    "physics_flags": 0,
+    "patch": {
+      "id": "right_base_feature168_p0p20",
+      "base_checkpoint_sha256": "300d24c691f8d76846a218b9bd670312cf577b701ea5863f221af1b8d1c0d637",
+      "edits": [
+        {
+          "name": "model.action_expert.output_proj.weight",
+          "index": 10408,
+          "indices": [
+            10,
+            168
+          ],
+          "delta": 0.2,
+          "original_value": 0.06640625
+        }
+      ],
+      "changed_scalars": 1,
+      "hypothesis": "One learned output-projection coefficient on a feature stronger during rack approach than during regrasp. Activation contrast motivated location; forward interventions test causal action effects. Not an interpreted semantic neuron."
+    }
+  },
+  {
+    "id": "right_base_feature200_p0p08",
+    "completed": 2,
+    "successes": 1,
+    "remaining": 4,
+    "maximum_possible_successes": 5,
+    "physics_flags": 0,
+    "patch": {
+      "id": "right_base_feature200_p0p08",
+      "base_checkpoint_sha256": "300d24c691f8d76846a218b9bd670312cf577b701ea5863f221af1b8d1c0d637",
+      "edits": [
+        {
+          "name": "model.action_expert.output_proj.weight",
+          "index": 10440,
+          "indices": [
+            10,
+            200
+          ],
+          "delta": 0.08,
+          "original_value": -0.0033416748046875
+        }
+      ],
+      "changed_scalars": 1,
+      "hypothesis": "One learned output-projection coefficient on a feature stronger during rack approach than during regrasp. Activation contrast motivated location; forward interventions test causal action effects. Not an interpreted semantic neuron."
+    },
+    "pruned": true,
+    "reason": "Cannot beat completed6/6eligible candidate, or physics-ineligible; completed outcomes retained; interrupted episodes not scored.",
+    "interrupted_unscored_seeds": [
+      "200003"
+    ]
+  },
+  {
+    "id": "right_base_m0p32",
+    "completed": 4,
+    "successes": 0,
+    "remaining": 2,
+    "maximum_possible_successes": 2,
+    "physics_flags": 0,
+    "patch": {
+      "id": "right_base_m0p32",
+      "base_checkpoint_sha256": "300d24c691f8d76846a218b9bd670312cf577b701ea5863f221af1b8d1c0d637",
+      "edits": [
+        {
+          "name": "model.action_expert.output_proj.bias",
+          "index": 10,
+          "delta": -0.32,
+          "original_value": 0.0011749267578125
+        }
+      ],
+      "changed_scalars": 1,
+      "hypothesis": "Three development misses release the mug handle approximately3-4cm short in world x. Positive right-base flow-output bias causally shifts predicted approach toward +x; test small scales and negative control. Forward effects are coupled and hypothesis is approximate."
+    },
+    "pruned": true,
+    "reason": "Cannot beat completed6/6eligible candidate, or physics-ineligible; completed outcomes retained; interrupted episodes not scored.",
+    "interrupted_unscored_seeds": [
+      "200010"
+    ]
+  },
+  {
+    "id": "right_base_p0p08",
+    "completed": 4,
+    "successes": 3,
+    "remaining": 2,
+    "maximum_possible_successes": 5,
+    "physics_flags": 0,
+    "patch": {
+      "id": "right_base_p0p08",
+      "base_checkpoint_sha256": "300d24c691f8d76846a218b9bd670312cf577b701ea5863f221af1b8d1c0d637",
+      "edits": [
+        {
+          "name": "model.action_expert.output_proj.bias",
+          "index": 10,
+          "delta": 0.08,
+          "original_value": 0.0011749267578125
+        }
+      ],
+      "changed_scalars": 1,
+      "hypothesis": "Refine the small positive right-base bias range after+.16 recovered development seed200000 while+.32and+.64 disrupted handling. Select only on development outcomes."
+    },
+    "pruned": true,
+    "reason": "Cannot beat completed6/6eligible candidate, or physics-ineligible; completed outcomes retained; interrupted episodes not scored.",
+    "interrupted_unscored_seeds": [
+      "200010"
+    ]
+  },
+  {
+    "id": "right_base_p0p12",
+    "completed": 4,
+    "successes": 3,
+    "remaining": 2,
+    "maximum_possible_successes": 5,
+    "physics_flags": 0,
+    "patch": {
+      "id": "right_base_p0p12",
+      "base_checkpoint_sha256": "300d24c691f8d76846a218b9bd670312cf577b701ea5863f221af1b8d1c0d637",
+      "edits": [
+        {
+          "name": "model.action_expert.output_proj.bias",
+          "index": 10,
+          "delta": 0.12,
+          "original_value": 0.0011749267578125
+        }
+      ],
+      "changed_scalars": 1,
+      "hypothesis": "Refine the small positive right-base bias range after+.16 recovered development seed200000 while+.32and+.64 disrupted handling. Select only on development outcomes."
+    },
+    "pruned": true,
+    "reason": "Cannot beat completed6/6eligible candidate, or physics-ineligible; completed outcomes retained; interrupted episodes not scored.",
+    "interrupted_unscored_seeds": [
+      "200010"
+    ]
+  },
+  {
+    "id": "right_base_p0p16",
+    "completed": 6,
+    "successes": 4,
+    "remaining": 0,
+    "maximum_possible_successes": 4,
+    "physics_flags": 1,
+    "patch": {
+      "id": "right_base_p0p16",
+      "base_checkpoint_sha256": "300d24c691f8d76846a218b9bd670312cf577b701ea5863f221af1b8d1c0d637",
+      "edits": [
+        {
+          "name": "model.action_expert.output_proj.bias",
+          "index": 10,
+          "delta": 0.16,
+          "original_value": 0.0011749267578125
+        }
+      ],
+      "changed_scalars": 1,
+      "hypothesis": "Three development misses release the mug handle approximately3-4cm short in world x. Positive right-base flow-output bias causally shifts predicted approach toward +x; test small scales and negative control. Forward effects are coupled and hypothesis is approximate."
+    },
+    "pruned": true,
+    "reason": "Cannot beat completed6/6eligible candidate, or physics-ineligible; completed outcomes retained; interrupted episodes not scored.",
+    "interrupted_unscored_seeds": []
+  },
+  {
+    "id": "right_base_p0p20",
+    "completed": 3,
+    "successes": 1,
+    "remaining": 3,
+    "maximum_possible_successes": 4,
+    "physics_flags": 0,
+    "patch": {
+      "id": "right_base_p0p20",
+      "base_checkpoint_sha256": "300d24c691f8d76846a218b9bd670312cf577b701ea5863f221af1b8d1c0d637",
+      "edits": [
+        {
+          "name": "model.action_expert.output_proj.bias",
+          "index": 10,
+          "delta": 0.2,
+          "original_value": 0.0011749267578125
+        }
+      ],
+      "changed_scalars": 1,
+      "hypothesis": "Refine the small positive right-base bias range after+.16 recovered development seed200000 while+.32and+.64 disrupted handling. Select only on development outcomes."
+    },
+    "pruned": true,
+    "reason": "Cannot beat completed6/6eligible candidate, or physics-ineligible; completed outcomes retained; interrupted episodes not scored.",
+    "interrupted_unscored_seeds": [
+      "200009"
+    ]
+  },
+  {
+    "id": "right_base_p0p24",
+    "completed": 3,
+    "successes": 0,
+    "remaining": 3,
+    "maximum_possible_successes": 3,
+    "physics_flags": 0,
+    "patch": {
+      "id": "right_base_p0p24",
+      "base_checkpoint_sha256": "300d24c691f8d76846a218b9bd670312cf577b701ea5863f221af1b8d1c0d637",
+      "edits": [
+        {
+          "name": "model.action_expert.output_proj.bias",
+          "index": 10,
+          "delta": 0.24,
+          "original_value": 0.0011749267578125
+        }
+      ],
+      "changed_scalars": 1,
+      "hypothesis": "Refine the small positive right-base bias range after+.16 recovered development seed200000 while+.32and+.64 disrupted handling. Select only on development outcomes."
+    },
+    "pruned": true,
+    "reason": "Cannot beat completed6/6eligible candidate, or physics-ineligible; completed outcomes retained; interrupted episodes not scored.",
+    "interrupted_unscored_seeds": [
+      "200009"
+    ]
+  },
+  {
+    "id": "right_base_p0p32",
+    "completed": 5,
+    "successes": 0,
+    "remaining": 1,
+    "maximum_possible_successes": 1,
+    "physics_flags": 0,
+    "patch": {
+      "id": "right_base_p0p32",
+      "base_checkpoint_sha256": "300d24c691f8d76846a218b9bd670312cf577b701ea5863f221af1b8d1c0d637",
+      "edits": [
+        {
+          "name": "model.action_expert.output_proj.bias",
+          "index": 10,
+          "delta": 0.32,
+          "original_value": 0.0011749267578125
+        }
+      ],
+      "changed_scalars": 1,
+      "hypothesis": "Three development misses release the mug handle approximately3-4cm short in world x. Positive right-base flow-output bias causally shifts predicted approach toward +x; test small scales and negative control. Forward effects are coupled and hypothesis is approximate."
+    },
+    "pruned": true,
+    "reason": "Cannot beat completed6/6eligible candidate, or physics-ineligible; completed outcomes retained; interrupted episodes not scored.",
+    "interrupted_unscored_seeds": [
+      "200013"
+    ]
+  },
+  {
+    "id": "right_base_p0p64",
+    "completed": 4,
+    "successes": 0,
+    "remaining": 2,
+    "maximum_possible_successes": 2,
+    "physics_flags": 0,
+    "patch": {
+      "id": "right_base_p0p64",
+      "base_checkpoint_sha256": "300d24c691f8d76846a218b9bd670312cf577b701ea5863f221af1b8d1c0d637",
+      "edits": [
+        {
+          "name": "model.action_expert.output_proj.bias",
+          "index": 10,
+          "delta": 0.64,
+          "original_value": 0.0011749267578125
+        }
+      ],
+      "changed_scalars": 1,
+      "hypothesis": "Three development misses release the mug handle approximately3-4cm short in world x. Positive right-base flow-output bias causally shifts predicted approach toward +x; test small scales and negative control. Forward effects are coupled and hypothesis is approximate."
+    },
+    "pruned": true,
+    "reason": "Cannot beat completed6/6eligible candidate, or physics-ineligible; completed outcomes retained; interrupted episodes not scored.",
+    "interrupted_unscored_seeds": [
+      "200010"
+    ]
+  }
+]

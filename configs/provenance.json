@@ -1,0 +1,12 @@
+{
+  "repositories": {
+    "RoboTwin": "13c3c47ff4312dd62484bcd51be034af55c062d1",
+    "GalaxeaVLA": "89f2322b4ad016e192437adc1a2c253b05bab246",
+    "curobo": "36ea382dabbde2a2431951fc9048f7e5ffd8106b"
+  },
+  "checkpoint_sha256": "300d24c691f8d76846a218b9bd670312cf577b701ea5863f221af1b8d1c0d637",
+  "checkpoint_hf_revision": "e312be81e90c56a55bcb26b57429bd39a335b449",
+  "assets_hf_revision": "3dc3b798668feb99ac61cc9086d84cbcc3d79186",
+  "split_sha256": "30b3636c662d0f79f73e6c766e9fe53d447b66bb9a8a3f360a24e9ffcbe4f9cc",
+  "publication_note": "Public script copy replaces instance-specific paths with environment variables; measured results come from the archived experiment."
+}

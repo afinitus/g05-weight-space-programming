@@ -1,0 +1,28 @@
+{
+  "candidate": "right_base_feature168_p0p20",
+  "n": 10,
+  "baseline_successes": 1,
+  "edited_successes": 6,
+  "delta_pp": 50.0,
+  "gains": 5,
+  "losses": 0,
+  "both_success": 1,
+  "both_fail": 4,
+  "baseline_wilson95": [
+    0.017876213095072896,
+    0.4041500267952385
+  ],
+  "edited_wilson95": [
+    0.31267376973365824,
+    0.8318196702937638
+  ],
+  "paired_bootstrap95": [
+    0.2,
+    0.8
+  ],
+  "mcnemar_exact_p": 0.0625,
+  "initial_images_all_identical": true,
+  "initial_physics_all_identical": true,
+  "baseline_native": 1,
+  "edited_native": 6
+}

@@ -1,0 +1,430 @@
+[
+  {
+    "candidate": "baseline",
+    "seed": 200014,
+    "success": false,
+    "max_rack_speed_m_s": 0.4826990832875918,
+    "max_rack_velocity_jump_m_s": 0.658075594594087,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 268.6000127578154,
+      "max_speed_m_s": 0.5749785068222286,
+      "max_penetration_m": 0.0032123394776135683,
+      "max_contact_impulse": 0.395137220621109,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200016,
+    "success": false,
+    "max_rack_speed_m_s": 0,
+    "max_rack_velocity_jump_m_s": 0,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 226.49201075779274,
+      "max_speed_m_s": 0.283930990164652,
+      "max_penetration_m": 0.0010747413616627455,
+      "max_contact_impulse": 0.1339535266160965,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200017,
+    "success": false,
+    "max_rack_speed_m_s": 0.875252606684451,
+    "max_rack_velocity_jump_m_s": 1.1867277132953915,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 205.40800975635648,
+      "max_speed_m_s": 0.875252606684451,
+      "max_penetration_m": 0.0032523497939109802,
+      "max_contact_impulse": 0.4063839018344879,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200021,
+    "success": false,
+    "max_rack_speed_m_s": 0.11380890833283372,
+    "max_rack_velocity_jump_m_s": 0.013770448792203842,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 264.5560125657357,
+      "max_speed_m_s": 0.6965520693695587,
+      "max_penetration_m": 0.0005557305412366986,
+      "max_contact_impulse": 0.0566776841878891,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200022,
+    "success": false,
+    "max_rack_speed_m_s": 0.5410926275926419,
+    "max_rack_velocity_jump_m_s": 0.44671073731472694,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 232.44001104030758,
+      "max_speed_m_s": 0.6387232266600388,
+      "max_penetration_m": 0.0008945092558860779,
+      "max_contact_impulse": 0.08499988913536072,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200023,
+    "success": false,
+    "max_rack_speed_m_s": 1.0326731226720576,
+    "max_rack_velocity_jump_m_s": 0.838094133411308,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 263.7400125269778,
+      "max_speed_m_s": 1.133570975799002,
+      "max_penetration_m": 0.002126043662428856,
+      "max_contact_impulse": 0.2701840400695801,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200025,
+    "success": false,
+    "max_rack_speed_m_s": 0.4772447637845921,
+    "max_rack_velocity_jump_m_s": 0.6552260855114092,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 247.63201176188886,
+      "max_speed_m_s": 0.5478521665181402,
+      "max_penetration_m": 0.003941242583096027,
+      "max_contact_impulse": 0.10228187590837479,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200026,
+    "success": false,
+    "max_rack_speed_m_s": 0.20159114999123975,
+    "max_rack_velocity_jump_m_s": 0.18875389910924142,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 211.7960100597702,
+      "max_speed_m_s": 0.8501325679414338,
+      "max_penetration_m": 0.0013238813262432814,
+      "max_contact_impulse": 0.17865081131458282,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200027,
+    "success": false,
+    "max_rack_speed_m_s": 0.4179806366404402,
+    "max_rack_velocity_jump_m_s": 0.4506472164960173,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 239.00401135208085,
+      "max_speed_m_s": 0.9881574191190038,
+      "max_penetration_m": 0.0015213072765618563,
+      "max_contact_impulse": 0.23209638893604279,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200037,
+    "success": true,
+    "max_rack_speed_m_s": 0.5173856379588437,
+    "max_rack_velocity_jump_m_s": 0.39644360579000143,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 98.95600470015779,
+      "max_speed_m_s": 0.5173856379588437,
+      "max_penetration_m": 0.0017959848046302795,
+      "max_contact_impulse": 0.10223415493965149,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200014,
+    "success": false,
+    "max_rack_speed_m_s": 1.0512563831973116,
+    "max_rack_velocity_jump_m_s": 1.205371202446011,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 212.99601011676714,
+      "max_speed_m_s": 1.1560263261596275,
+      "max_penetration_m": 0.008492007851600647,
+      "max_contact_impulse": 0.8531291484832764,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200016,
+    "success": false,
+    "max_rack_speed_m_s": 0,
+    "max_rack_velocity_jump_m_s": 0,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 212.40401008864865,
+      "max_speed_m_s": 0.36466600154715956,
+      "max_penetration_m": 0.0022295936942100525,
+      "max_contact_impulse": 0.34380969405174255,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200017,
+    "success": true,
+    "max_rack_speed_m_s": 0.1708274567851794,
+    "max_rack_velocity_jump_m_s": 0.07553629929684728,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 92.09200437413529,
+      "max_speed_m_s": 0.5221253711465803,
+      "max_penetration_m": 0.00045535172102972865,
+      "max_contact_impulse": 0.0723891407251358,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200021,
+    "success": false,
+    "max_rack_speed_m_s": 0.5301806707501279,
+    "max_rack_velocity_jump_m_s": 0.23091991769750295,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 279.5160132762976,
+      "max_speed_m_s": 0.6950777858039671,
+      "max_penetration_m": 0.0008957740501500666,
+      "max_contact_impulse": 0.1453152745962143,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200022,
+    "success": true,
+    "max_rack_speed_m_s": 0.3265592521945742,
+    "max_rack_velocity_jump_m_s": 0.3204623768198987,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 94.16400447255,
+      "max_speed_m_s": 0.5613208365371799,
+      "max_penetration_m": 0.0008026212453842163,
+      "max_contact_impulse": 0.14365950226783752,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200023,
+    "success": true,
+    "max_rack_speed_m_s": 0.32821738464842865,
+    "max_rack_velocity_jump_m_s": 0.3400182481117801,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 90.20800428465009,
+      "max_speed_m_s": 0.3451287466086763,
+      "max_penetration_m": 0.001132247969508171,
+      "max_contact_impulse": 0.06369311362504959,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200025,
+    "success": true,
+    "max_rack_speed_m_s": 0.7805164998338171,
+    "max_rack_velocity_jump_m_s": 0.8701463098973493,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 91.76000435836613,
+      "max_speed_m_s": 0.7805164998338171,
+      "max_penetration_m": 0.0031379424035549164,
+      "max_contact_impulse": 0.17289115488529205,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200026,
+    "success": true,
+    "max_rack_speed_m_s": 1.1363117415905941,
+    "max_rack_velocity_jump_m_s": 1.1657510096399963,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 93.48400444025174,
+      "max_speed_m_s": 1.1363117415905941,
+      "max_penetration_m": 0.002383604645729065,
+      "max_contact_impulse": 0.07992236316204071,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200027,
+    "success": false,
+    "max_rack_speed_m_s": 0.8079952293003382,
+    "max_rack_velocity_jump_m_s": 1.197473294267848,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 281.8360133864917,
+      "max_speed_m_s": 2.998232466252655,
+      "max_penetration_m": 0.003977436572313309,
+      "max_contact_impulse": 0.5778164267539978,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 48526
+    },
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200037,
+    "success": true,
+    "max_rack_speed_m_s": 0.3099506282643582,
+    "max_rack_velocity_jump_m_s": 0.32112806411701256,
+    "suspicious_rack_event": false,
+    "physics": {
+      "sim_seconds": 97.88400464924052,
+      "max_speed_m_s": 0.5281038215073804,
+      "max_penetration_m": 0.0007062661461532116,
+      "max_contact_impulse": 0.1116376668214798,
+      "speed_over_3m_s_steps": 0,
+      "penetration_over_1cm_steps": 0,
+      "ground_contact_steps": 0
+    },
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  }
+]

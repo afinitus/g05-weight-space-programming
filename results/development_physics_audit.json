@@ -1,0 +1,794 @@
+[
+  {
+    "candidate": "baseline",
+    "seed": 200000,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0.2644326761494703,
+    "max_rack_velocity_jump": 0.20788037231291867,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0005448721349239349,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200002,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.505871930346388,
+    "max_rack_velocity_jump": 0.3837777342539643,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0005476707592606544,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200003,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0.944167156096059,
+    "max_rack_velocity_jump": 1.0249335310798153,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0045038629323244095,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200009,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0.9782469832425973,
+    "max_rack_velocity_jump": 1.3401803376921382,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0034388676285743713,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200010,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0.485654693545411,
+    "max_rack_velocity_jump": 0.5866515477418714,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.003315388225018978,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "baseline",
+    "seed": 200013,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0.6136612209521958,
+    "max_rack_velocity_jump": 0.5986748238720033,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0017991093918681145,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "control_right_base_m0p0145",
+    "seed": 200000,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.7556437854302739,
+    "max_rack_velocity_jump": 1.2370419497465388,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.007770568132400513,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "control_right_base_m0p0145",
+    "seed": 200002,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.292655561421594,
+    "max_rack_velocity_jump": 0.3105945551166481,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0009976992150768638,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "control_right_base_m0p0145",
+    "seed": 200003,
+    "success": false,
+    "max_rack_speed_above_0p8m": 2.399943422156279,
+    "max_rack_velocity_jump": 1.6450761123226258,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.002765342593193054,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "control_right_base_m0p0145",
+    "seed": 200009,
+    "success": false,
+    "max_rack_speed_above_0p8m": 1.1420203994558749,
+    "max_rack_velocity_jump": 1.0584066645199137,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.002860486041754484,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "control_right_base_m0p0145",
+    "seed": 200010,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0,
+    "max_rack_velocity_jump": 0,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.001699492335319519,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "control_right_base_m0p0145",
+    "seed": 200013,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0.7756641930352208,
+    "max_rack_velocity_jump": 1.0509480990807205,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0016599968075752258,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "control_right_base_m0p03",
+    "seed": 200000,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0,
+    "max_rack_velocity_jump": 0,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.005463769659399986,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "control_right_base_m0p03",
+    "seed": 200002,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0,
+    "max_rack_velocity_jump": 0,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0021051764488220215,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "control_right_base_m0p03",
+    "seed": 200003,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0,
+    "max_rack_velocity_jump": 0,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.004965206608176231,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "control_right_base_m0p03",
+    "seed": 200009,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0.7696694445301391,
+    "max_rack_velocity_jump": 0.7795530477815905,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0018612804124131799,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "control_right_base_m0p03",
+    "seed": 200010,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0.29994452810178424,
+    "max_rack_velocity_jump": 0.10037236197371804,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0006208292907103896,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "control_right_base_m0p03",
+    "seed": 200013,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0,
+    "max_rack_velocity_jump": 0,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.004042111337184906,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200000,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.2759595677964967,
+    "max_rack_velocity_jump": 0.1253235801311204,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0005866250139661133,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200002,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.4649542167664831,
+    "max_rack_velocity_jump": 0.5121421269677824,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0015626995591446757,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200003,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.5748080747991691,
+    "max_rack_velocity_jump": 0.3600213654863747,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0012322082184255123,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200009,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.6680391062330506,
+    "max_rack_velocity_jump": 0.7851362231812908,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0034294985234737396,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200010,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.2736838811935131,
+    "max_rack_velocity_jump": 0.43948881242635524,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0015922868624329567,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_feature168_p0p20",
+    "seed": 200013,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.5068590740209327,
+    "max_rack_velocity_jump": 0.572315238857411,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0011394470930099487,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_feature200_p0p08",
+    "seed": 200000,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0.9987722840743265,
+    "max_rack_velocity_jump": 1.283224297125329,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.002024136483669281,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_feature200_p0p08",
+    "seed": 200002,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.23399581894391516,
+    "max_rack_velocity_jump": 0.20078871446107696,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0012287013232707977,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_m0p32",
+    "seed": 200000,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0,
+    "max_rack_velocity_jump": 0,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0006602195790037513,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_m0p32",
+    "seed": 200002,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0.08016679549961671,
+    "max_rack_velocity_jump": 0.005880857248703376,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0008252527331933379,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_m0p32",
+    "seed": 200003,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0,
+    "max_rack_velocity_jump": 0,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.001846708357334137,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_m0p32",
+    "seed": 200009,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0,
+    "max_rack_velocity_jump": 0,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.024611014872789383,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p08",
+    "seed": 200000,
+    "success": true,
+    "max_rack_speed_above_0p8m": 1.7164476797554347,
+    "max_rack_velocity_jump": 1.7358750546884376,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.004044210072606802,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_p0p08",
+    "seed": 200002,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.40325482672453283,
+    "max_rack_velocity_jump": 0.4006125799393439,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0008805133402347565,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_p0p08",
+    "seed": 200003,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0.5360140094191632,
+    "max_rack_velocity_jump": 0.41614018344010917,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.01191900297999382,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p08",
+    "seed": 200009,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.5232808513684911,
+    "max_rack_velocity_jump": 0.46903343419881843,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0010407529771327972,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_p0p12",
+    "seed": 200000,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.5294569749363645,
+    "max_rack_velocity_jump": 0.7226365915535441,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0012705032713711262,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_p0p12",
+    "seed": 200002,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.6173259169015831,
+    "max_rack_velocity_jump": 0.6233321227311308,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.002493069740012288,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_p0p12",
+    "seed": 200003,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.5291615710712596,
+    "max_rack_velocity_jump": 0.465679840969965,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0010401203762739897,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_p0p12",
+    "seed": 200009,
+    "success": false,
+    "max_rack_speed_above_0p8m": 1.2453446970204083,
+    "max_rack_velocity_jump": 0.9893888223189756,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.003065485507249832,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p16",
+    "seed": 200000,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.33002708984410245,
+    "max_rack_velocity_jump": 0.4290039687162315,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.002759430557489395,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_p0p16",
+    "seed": 200002,
+    "success": true,
+    "max_rack_speed_above_0p8m": 1.099699473860978,
+    "max_rack_velocity_jump": 1.1178458391496042,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.004578299820423126,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_p0p16",
+    "seed": 200003,
+    "success": false,
+    "max_rack_speed_above_0p8m": 7.444705460518619,
+    "max_rack_velocity_jump": 7.545595365122683,
+    "suspicious_rack_event": true,
+    "max_penetration": 0.03211038187146187,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p16",
+    "seed": 200009,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0.6624627543747421,
+    "max_rack_velocity_jump": 1.0240214818792717,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.002074509859085083,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p16",
+    "seed": 200010,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.3834314811462485,
+    "max_rack_velocity_jump": 0.35178367056265486,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.000838007777929306,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_p0p16",
+    "seed": 200013,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.6176868625897635,
+    "max_rack_velocity_jump": 0.7321917621577922,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0016646906733512878,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_p0p20",
+    "seed": 200000,
+    "success": false,
+    "max_rack_speed_above_0p8m": 1.2515285622068153,
+    "max_rack_velocity_jump": 1.361062445793517,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0053550489246845245,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p20",
+    "seed": 200002,
+    "success": true,
+    "max_rack_speed_above_0p8m": 0.37861162511707014,
+    "max_rack_velocity_jump": 0.5340465831235821,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0016702674329280853,
+    "hold": {
+      "validated_success": true,
+      "native_pose_all_steps": true,
+      "rack_contact_fraction": 1.0,
+      "robot_contact_any": false,
+      "duration": 1.0000000474974513
+    }
+  },
+  {
+    "candidate": "right_base_p0p20",
+    "seed": 200003,
+    "success": false,
+    "max_rack_speed_above_0p8m": 2.1405219015044934,
+    "max_rack_velocity_jump": 1.5754202020894834,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.00317893223837018,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p24",
+    "seed": 200000,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0.6565451310167073,
+    "max_rack_velocity_jump": 0.4999136661492969,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0009952031541615725,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p24",
+    "seed": 200002,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0.7060208837435906,
+    "max_rack_velocity_jump": 0.7307534223820386,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0023960862308740616,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p24",
+    "seed": 200003,
+    "success": false,
+    "max_rack_speed_above_0p8m": 1.9014958786067648,
+    "max_rack_velocity_jump": 1.778288473181773,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.008328435942530632,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p32",
+    "seed": 200000,
+    "success": false,
+    "max_rack_speed_above_0p8m": 1.194664569638769,
+    "max_rack_velocity_jump": 1.218722488669092,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0018783642444759607,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p32",
+    "seed": 200002,
+    "success": false,
+    "max_rack_speed_above_0p8m": 1.680664289077857,
+    "max_rack_velocity_jump": 1.5944790200966856,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0036464594304561615,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p32",
+    "seed": 200003,
+    "success": false,
+    "max_rack_speed_above_0p8m": 2.58064909687908,
+    "max_rack_velocity_jump": 2.4932726154610587,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.010186474770307541,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p32",
+    "seed": 200009,
+    "success": false,
+    "max_rack_speed_above_0p8m": 1.14622345803548,
+    "max_rack_velocity_jump": 0.5957595828370412,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0008675381541252136,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p32",
+    "seed": 200010,
+    "success": false,
+    "max_rack_speed_above_0p8m": 1.04487111951371,
+    "max_rack_velocity_jump": 0.353295754678033,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.003391716629266739,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p64",
+    "seed": 200000,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0,
+    "max_rack_velocity_jump": 0,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0004645562148652971,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p64",
+    "seed": 200002,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0,
+    "max_rack_velocity_jump": 0,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.0017001399537548423,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p64",
+    "seed": 200003,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0,
+    "max_rack_velocity_jump": 0,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.00041835964657366276,
+    "hold": {
+      "validated_success": false
+    }
+  },
+  {
+    "candidate": "right_base_p0p64",
+    "seed": 200009,
+    "success": false,
+    "max_rack_speed_above_0p8m": 0,
+    "max_rack_velocity_jump": 0,
+    "suspicious_rack_event": false,
+    "max_penetration": 0.004845757037401199,
+    "hold": {
+      "validated_success": false
+    }
+  }
+]

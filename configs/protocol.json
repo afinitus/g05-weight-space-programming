@@ -1,0 +1,37 @@
+{
+  "started_utc": "2026-11-06T17:58:08.527043+00:00",
+  "task": "hanging_mug",
+  "dev_n": 6,
+  "test_n": 10,
+  "selection": "First 16 expert-feasible configurations with validated supported hold; first 6 dev, next 10 test; freeze before policy testing",
+  "primary_success": "Native success followed by 250 physics steps with native pose criterion throughout, rack contact at least95%, no robot contact",
+  "physics_flags": "Log every4ms; flag speed>3m/s or penetration>1cm for audit, not automatic exclusion",
+  "candidate_budget": 10,
+  "training": false,
+  "video": "15fps fixed simulation time overview; policy original3cameras unchanged",
+  "test_selection": "Select edit on dev only; freeze before reviewing held-out baseline outcomes",
+  "instruction": "Use left arm to pick the mug on the table, rotate the mug and put the mug down in the middle of the table, use the right arm to pick the mug and hang it onto the rack.",
+  "instruction_source": "Official RoboTwin description/task_instruction/hanging_mug.json full_description",
+  "completion_check_revision_utc": "2026-11-06T18:13:34.419055+00:00",
+  "completion_check": "Record native criterion at every controller step but do not terminate action midway. Continue original policy until native criterion plus rack contact and no robot contact at action boundary, then verify1s hold. If hold fails continue until900actionlimit. No scripted release or action correction.",
+  "integration_runs_excluded": "Initial native-termination baseline runs preserved in results/integration_native_termination; restarted uniformly before any weight search",
+  "physics_selection_audit": {
+    "recorded_utc": "2026-11-06T18:36:48.172135+00:00",
+    "reason": "After first3+.16development episodes, rack event7.4m/s flagged by preregistered speed threshold; distinguish ground free-fall from rack-contact events",
+    "rule": "Do not select a candidate with unresolved development rack-contact speed or velocity jump above3m/s at mug height>0.8m. Retain all episodes and scores. Baseline6dev has no such flags. This gate was added during development and before held-out outcome review."
+  },
+  "candidate_budget_revision": {
+    "utc": "2026-11-06T18:48:04.457992+00:00",
+    "original": 8,
+    "revised": 10,
+    "reason": "Constant biases improve some hangs but disrupt earlier handling and one introduces rack-contact instability. Activation contrast plus24causal forward probes identify two single projection weights with smaller regrasp effects and larger approach corrections. Add exactly2projection-weight candidates; no held-out outcomes used."
+  },
+  "selection_order": [
+    "Require all6development trials completed and no unresolved suspicious rack events",
+    "Highest supported-hang success count",
+    "Fewest changed scalars",
+    "Smallest requested delta L2 norm",
+    "Lexicographically smallest candidate ID"
+  ],
+  "selection_order_recorded_utc": "2026-11-06T18:50:40.045884+00:00"
+}
